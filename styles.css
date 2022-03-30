@@ -85,6 +85,6 @@ button.add {
   background-color: green;
 }
 .count {
-  border: 1px solid var(--white);
+  /* border: 1px solid var(--white); */
   padding: 0 1rem;
 }
